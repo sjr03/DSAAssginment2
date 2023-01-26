@@ -7,3 +7,5 @@ If the code is to be executed in Collab, please follow the below three steps: Us
 -1) Run the first cell which has all the library import options
 -2) Then run the second cell which has function labelling 
 -3) Then run the third cell which has the main code
+The final output will be stored in a .csv file
+The .csv file is given as the report
